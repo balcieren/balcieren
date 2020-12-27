@@ -41,9 +41,9 @@
 
 
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urdux&show_icons=true&locale=en&layout=compact" alt="urdux" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=urdux&show_icons=true&locale=en" alt="urdux" />
+<div style="display:flex;column-gap:1rem;align-items:center;justify-content:center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=urdux&show_icons=true&locale=en&layout=compact" alt="urdux" />
+<img src="https://github-readme-stats.vercel.app/api?username=urdux&show_icons=true&locale=en" alt="urdux" />
 </div>
 
 
