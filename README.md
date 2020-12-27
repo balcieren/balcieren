@@ -12,6 +12,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urdux&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
 
+
+<h3>Live Projects:</h3>
+<ul>
+<li>
+<a href="http://pollstarted.herokuapp.com/" target="_blank">Poll Started
+</a>
+</li>
+<li>
+<a href="http://before-new-year.herokuapp.com/" target="_blank">Before New Year
+</a>
+</li>
+<li>
+<a href="https://react-speech-to-text-neon.vercel.app/" target="_blank">React Speech To Text</a>
+</li>
+</ul>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/UrduX#7982" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="UrduX#7982" height="30" width="40" /></a>
