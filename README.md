@@ -2,8 +2,6 @@
 
 ### <h3 align="start">A passionate and curious from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urdux&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
-
 - 🔭 I’m currently working on **independent**
 
 - 🌱 I’m currently learning now **Prisma Client**
@@ -11,6 +9,8 @@
 - 💬 Ask me about **react, vue and etc.**
 
 - 📫 How to reach me **erenbalci3939@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=urdux&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
