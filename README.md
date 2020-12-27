@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 <h3 align="center">A passionate and curious from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urdux&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
@@ -23,9 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urdux&show_icons=true&locale=en&layout=compact" alt="urdux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urdux&show_icons=true&locale=en" alt="urdux" /></p>
-=======
-### Coding is supercalifragilisticexpialidocious 🤣 
->>>>>>> b882a2bc8da40311465ca3734957aac985577bf4
-=======
-### Coding is supercalifragilisticexpialidocious 🤣 
->>>>>>> b882a2bc8da40311465ca3734957aac985577bf4
