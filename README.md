@@ -20,7 +20,7 @@
 </a>
 </li>
 <li>
-<a href="http://before-new-year.herokuapp.com/" target="_blank">Before New Year
+<a href="https://before-new-year.vercel.app/" target="_blank">Before New Year
 </a>
 </li>
 <li>
