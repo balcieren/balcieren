@@ -26,6 +26,9 @@
 <li>
 <a href="https://react-speech-to-text-neon.vercel.app/" target="_blank">React Speech To Text</a>
 </li>
+<li>
+<a href="https://dayi.vercel.app/" target="_blank">Dayı Discord Bot</a>
+</li>
 </ul>
 
 
