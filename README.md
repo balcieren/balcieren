@@ -17,7 +17,7 @@
 
 <ul>
 <li>
-<a href="https://do-not-laugh-challenge.vercel.app/" target="_blank">Don't Laugh Challenge
+<a href="https://do-not-laugh-challenge1.vercel.app/" target="_blank">Don't Laugh Challenge
 </a>
 </li>
 <li>
