@@ -21,7 +21,7 @@
 </a>
 </li>
 <li>
-<a href="http://pollstarted.herokuapp.com/" target="_blank">Poll Started
+<a href="https://poll-started.herokuapp.com/" target="_blank">Poll Started
 </a>
 </li>
 <li>
