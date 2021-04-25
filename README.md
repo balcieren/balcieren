@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **independent**
 
-- 🌱 I’m currently learning now **Prisma Client**
+- 🌱 I’m currently learning now **Nestjs**
 
 - 💬 Ask me about **react, vue and etc.**
 
