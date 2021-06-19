@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **independent**
 
-- 🌱 I’m currently learning now **Nestjs**
+- 🌱 I’m currently learning now **Fastify**
 
 - 💬 Ask me about **react, vue and etc.**
 
