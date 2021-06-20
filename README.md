@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react, vue and etc.**
 
-- 📫 How to reach me **erenbalci3939@gmail.com**
+- 📫 How to reach me at **erenbalci3939@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urdux&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
 
