@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning now **Fastify**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urdux&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balcieren&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
 
 
 <h3>Live Projects:</h3>
@@ -34,8 +34,8 @@
 
 
 <div style="display:flex;column-gap:1rem;align-items:center;justify-content:center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=urdux&show_icons=true&locale=en&layout=compact" alt="urdux" />
-<img src="https://github-readme-stats.vercel.app/api?username=urdux&show_icons=true&locale=en" alt="urdux" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=balcieren&show_icons=true&locale=en&layout=compact" alt="urdux" />
+<img src="https://github-readme-stats.vercel.app/api?username=balcieren&show_icons=true&locale=en" alt="urdux" />
 </div>
 
 
