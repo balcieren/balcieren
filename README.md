@@ -3,9 +3,8 @@
 ### <h3 align="start">A passionate and curious from Turkey</h3>
 
 - 🔭 I’m currently working on **independent**
-
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balcieren&label=Profile%20views&color=0e75b6&style=flat" alt="urdux" /> </p>
-
 
 <h3>Live Projects:</h3>
 
