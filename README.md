@@ -6,7 +6,7 @@ Full Stack Developer
 
 Coding is supercalifragilisticexpialidocious 🤣
 
-* 🖥️  See my portfolio at [my portfolio](http://https://erenbalci.com/)
+* 🖥️  See my portfolio at [my portfolio](https://erenbalci.com/)
 * ✉️  You can contact me at [erenbalci3939@gmail.com](mailto:erenbalci3939@gmail.com)
 * 🧠  I'm learning gRPC
 
