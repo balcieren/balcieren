@@ -1,17 +1,12 @@
-Hi 👋 My name is Eren
-=====================
+<h1 align="center">
+  Hi, I'm Eren 👋
+</h1>
 
-Full Stack Developer
---------------------
+<h3 align="center" style="font-weight: 300;">
+  Full Stack Developer
+</h3>
 
-Coding is supercalifragilisticexpialidocious 🤣
-
-* 🖥️  See my portfolio at [my portfolio](https://erenbalci.com/)
-* ✉️  You can contact me at [erenbalci3939@gmail.com](mailto:erenbalci3939@gmail.com)
-
-### Skills
-
-<p align="left">
+<p align="center">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -34,15 +29,8 @@ Coding is supercalifragilisticexpialidocious 🤣
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/erenbalci5335" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/erenbalci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/balcieren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/eren__balci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/balcieren"><img src="https://github-readme-stats.vercel.app/api?username=balcieren&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="balcieren's GitHub stats" /></a>
-
-<a href="http://www.github.com/balcieren"><img src="https://activity-graph.herokuapp.com/graph?username=balcieren&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+  <img height="50%" width="50%" src ="https://github-readme-stats.vercel.app/api?username=balcieren&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
+  <img height="50%" width="35%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=balcieren&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=8&hide=html,css,gdscript">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=balcieren&theme=dark&hide_border=true&background=FFFFFF00">
+</p>
